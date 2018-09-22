@@ -1,0 +1,20 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body {
+	text-align: center;
+	background-color: aquamarine;
+}
+
+h1 {
+	font-size: 60px;
+	color: coral;
+}
+
+p {
+	font-size: 40px;
+	columns: black;
+}
